@@ -60,7 +60,7 @@ The dashboard helps answer important social media analytics questions such as:
 ---
 
 ## Dashboard Preview
-*Screenshot 2024-04-09 162818.png*
+![Dashboard](Screenshot 2024-04-09 162818.png)
 
 ---
 
