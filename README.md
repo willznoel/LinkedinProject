@@ -58,11 +58,9 @@ The dashboard helps answer important social media analytics questions such as:
 - Growth patterns in connections
 
 ---
-
-## Dashboard Preview
 ## Dashboard Preview
 
-![LinkedIn Dashboard](Screenshot 2024-04-09 162818.png)
+![LinkedIn Dashboard](linkedindash.png)
 
 ---
 
